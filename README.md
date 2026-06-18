@@ -21,7 +21,7 @@ CLI][5].
 
 See [Using artifact attestations to establish provenance for builds][6] for more
 information on artifact attestations.
-
+.
 <!-- prettier-ignore-start -->
 > [!NOTE]
 > Artifact attestations are available in public repositories for all
